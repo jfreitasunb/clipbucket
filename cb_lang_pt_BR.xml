@@ -94,8 +94,8 @@
 	<usr_sub_err>You are already subscribed to %s</usr_sub_err>
 	<usr_exist_err>Usuário Inexistente</usr_exist_err>
 	<usr_ccode_err>Verification code you entered was wrong</usr_ccode_err>
-	<usr_exist_err1>Sorry, No User Exists With This Email</usr_exist_err1>
-	<usr_exist_err2>Sorry , User Doesn't Exist</usr_exist_err2>
+	<usr_exist_err1>Desculpe, não existe usuário com esse e-mail</usr_exist_err1>
+	<usr_exist_err2>Desculpe, usuário não existe</usr_exist_err2>
 	<usr_uname_err>Nome de usuário está vazio</usr_uname_err>
 	<usr_uname_err2>Nome de usuário já existe</usr_uname_err2>
 	<usr_pass_err2>Senha não informada</usr_pass_err2>
