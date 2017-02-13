@@ -1,0 +1,2 @@
+1) Abrir arquivo "upload/styles/cb_28/layout/signup.html" e comentar a 'div' "side-box" para remover o formulário de criação de nova conta.
+2)  Abrir arquivo "upload/styles/cb_28/layout/header.html" e comentar a 'li' "navbar-sm-login-links" para remover o formulário de criação de nova conta.
