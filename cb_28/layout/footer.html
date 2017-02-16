@@ -1,6 +1,9 @@
                     {ANCHOR place="play_front_anchor"}
 <footer id="footer" class="clearfix">
 	{$Cbucket->footer()}
+	<div class="footer_copyr column">
+        		<span>&copy; {$title} {$smarty.now|date_format:"%Y"}</span>
+        	</div>
 	<div class="container">
 		<div class="footer-holder">
 			<ul class="footer-links column">
@@ -35,9 +38,6 @@
 				{/if}
 				{/if}
 			</div>
-			<div class="footer_copyr column">
-        		<span>&copy; {$title} {$smarty.now|date_format:"%Y"}</span>
-        	</div>
 			<div class="copyright-poweredby column">
 				<span>#ClipBucket#</span>
 			</div>
